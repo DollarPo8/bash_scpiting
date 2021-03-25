@@ -1,0 +1,127 @@
+START
+UPTIME
+16:31:53 up
+CURRNT USERS
+pi       pts/0        2021-03-08 14:29 (fe80::2db6:9519:6917:55de%usb0)
+RECENT LOGINS
+pi       pts/0        fe80::2db6:9519: Mon Mar  8 14:29   still logged in
+reboot   system boot  5.10.11+         Thu Jan  1 01:00   still running
+pi       pts/0        fe80::8095:5269: Mon Mar  8 14:19 - 14:27  (00:07)
+reboot   system boot  5.10.11+         Thu Jan  1 01:00 - 14:27 (18694+14:27)
+pi       pts/0        fe80::609c:5e0a: Thu Mar  4 17:21 - 14:17 (3+20:55)
+reboot   system boot  5.10.11+         Thu Jan  1 01:00 - 14:17 (18694+14:17)
+pi       pts/0        fe80::d1af:165f: Thu Mar  4 16:41 - 17:20  (00:38)
+reboot   system boot  5.10.11+         Thu Jan  1 01:00 - 17:21 (18690+17:20)
+pi       pts/0        fe80::c59:4862:7 Thu Mar  4 16:35 - 16:40  (00:04)
+reboot   system boot  5.10.11+         Thu Jan  1 01:00 - 16:40 (18690+16:40)
+pi       pts/0        fe80::28cd:cf0b: Wed Feb 17 13:48 - 16:34 (15+02:46)
+reboot   system boot  5.10.11+         Thu Jan  1 01:00 - 16:34 (18690+16:34)
+pi       pts/0        fe80::7c62:24a7: Wed Feb 17 13:41 - 13:47  (00:06)
+reboot   system boot  5.10.11+         Thu Jan  1 01:00 - 13:47 (18675+13:47)
+pi       pts/0        fe80::a541:444f: Sat Feb 13 22:00 - 13:15 (3+15:15)
+reboot   system boot  5.10.11+         Thu Jan  1 01:00 - 13:15 (18675+13:15)
+pi       pts/0        fe80::a1f1:7a1:2 Sat Feb 13 21:58 - 21:59  (00:00)
+reboot   system boot  5.10.11+         Thu Jan  1 01:00 - 21:59 (18671+21:59)
+pi       pts/3        fe80::39ba:fe94: Sat Feb 13 21:45 - 21:56  (00:11)
+pi       pts/2        fe80::39ba:fe94: Sat Feb 13 21:41 - 21:56  (00:14)
+pi       pts/1        fe80::39ba:fe94: Sat Feb 13 21:33 - 21:44  (00:11)
+pi       pts/0        fe80::39ba:fe94: Sat Feb 13 21:32 - 21:41  (00:09)
+reboot   system boot  5.10.11+         Thu Jan  1 01:00 - 21:56 (18671+21:56)
+pi       pts/5        fe80::74c4:3e13: Sat Feb 13 21:31 - 21:31  (00:00)
+pi       pts/4        fe80::74c4:3e13: Sat Feb 13 21:29 - 21:31  (00:01)
+pi       pts/3        fe80::74c4:3e13: Sat Feb 13 21:29 - 21:30  (00:01)
+pi       pts/2        fe80::74c4:3e13: Sat Feb 13 21:25 - 21:29  (00:04)
+pi       pts/1        fe80::74c4:3e13: Sat Feb 13 21:21 - 21:25  (00:04)
+pi       pts/0        fe80::74c4:3e13: Sat Feb 13 21:20 - 21:24  (00:04)
+reboot   system boot  5.10.11+         Thu Jan  1 01:00 - 21:31 (18671+21:31)
+pi       pts/1        fe80::14b9:a7c1: Sat Feb 13 21:19 - 21:19  (00:00)
+pi       pts/0        fe80::14b9:a7c1: Fri Feb 12 11:53 - 21:19 (1+09:25)
+reboot   system boot  5.10.11+         Thu Jan  1 01:00 - 21:19 (18671+21:19)
+pi       pts/0        fe80::e0ec:3652: Fri Feb 12 11:51 - 11:52  (00:00)
+reboot   system boot  5.10.11+         Thu Jan  1 01:00 - 11:52 (18670+11:52)
+pi       pts/0        fe80::3c3a:5aac: Fri Feb 12 11:39 - 11:50  (00:10)
+reboot   system boot  5.10.11+         Thu Jan  1 01:00 - 11:50 (18670+11:50)
+pi       pts/0        fe80::a524:f7cd: Fri Feb 12 11:35 - 11:38  (00:03)
+reboot   system boot  5.10.11+         Thu Jan  1 01:00 - 11:38 (18670+11:38)
+pi       pts/0        fe80::8160:f5c5: Fri Feb 12 10:22 - 11:34  (01:11)
+reboot   system boot  5.10.11+         Thu Jan  1 01:00 - 11:34 (18670+11:34)
+pi       pts/0        fe80::30cc:df70: Fri Feb 12 09:57 - 10:21  (00:24)
+reboot   system boot  5.10.11+         Thu Jan  1 01:00 - 10:21 (18670+10:21)
+pi       pts/0        fe80::29a0:98ed: Fri Feb 12 09:43 - 09:56  (00:13)
+reboot   system boot  5.10.11+         Thu Jan  1 01:00 - 09:56 (18670+09:56)
+pi       pts/0        fe80::a4b7:2ac:9 Thu Feb 11 21:09 - 09:41  (12:31)
+reboot   system boot  5.10.11+         Thu Jan  1 01:00 - 09:41 (18670+09:41)
+pi       pts/0        fe80::50e2:ae7a: Thu Feb 11 21:05 - 21:08  (00:02)
+reboot   system boot  5.10.11+         Thu Jan  1 01:00 - 21:08 (18669+21:08)
+pi       pts/2        :pts/0:S.1       Thu Feb 11 20:48 - 21:04  (00:16)
+pi       pts/1        :pts/0:S.0       Thu Feb 11 20:43 - 21:04  (00:21)
+pi       pts/0        fe80::94f8:f1b4: Thu Feb 11 20:18 - 21:04  (00:46)
+reboot   system boot  5.10.11+         Thu Jan  1 01:00 - 21:04 (18669+21:04)
+pi       pts/0        fe80::a5d4:a95f: Thu Feb 11 20:06 - 20:17  (00:10)
+reboot   system boot  5.10.11+         Thu Jan  1 01:00 - 20:17 (18669+20:17)
+pi       pts/0        fe80::30f9:61e2: Thu Feb 11 20:04 - 20:04  (00:00)
+pi       pts/6        :pts/0:S.5       Thu Feb 11 19:52 - 19:54  (00:02)
+pi       pts/5        :pts/0:S.4       Thu Feb 11 19:51 - 19:54  (00:02)
+pi       pts/4        :pts/0:S.3       Thu Feb 11 19:51 - 19:54  (00:02)
+pi       pts/3        :pts/0:S.2       Thu Feb 11 19:51 - 19:54  (00:02)
+pi       pts/2        :pts/0:S.1       Thu Feb 11 19:51 - 19:54  (00:03)
+pi       pts/1        :pts/0:S.0       Thu Feb 11 19:50 - 19:54  (00:04)
+pi       pts/0        fe80::30f9:61e2: Thu Feb 11 19:09 - 20:03  (00:54)
+reboot   system boot  5.4.83+          Thu Jan  1 01:00 - 20:04 (18669+20:04)
+pi       pts/0        fe80::acba:942a: Tue Jan 26 14:59 - 19:08 (16+04:08)
+reboot   system boot  5.4.83+          Thu Jan  1 01:00 - 19:08 (18669+19:08)
+pi       pts/1        fe80::31e7:dc5:2 Tue Jan 26 14:56 - 14:56  (00:00)
+pi       pts/0        fe80::31e7:dc5:2 Mon Jan 25 19:51 - 14:58  (19:07)
+reboot   system boot  5.4.83+          Thu Jan  1 01:00 - 14:58 (18653+14:58)
+pi       pts/0        fe80::e493:2b0c: Mon Jan 25 19:36 - 19:49  (00:12)
+reboot   system boot  5.4.83+          Thu Jan  1 01:00 - 19:49 (18652+19:49)
+pi       pts/0        fe80::1d17:ef6a: Mon Jan 18 23:40 - 18:25 (6+18:44)
+reboot   system boot  5.4.83+          Thu Jan  1 01:00 - 18:25 (18652+18:25)
+pi       pts/0        fe80::c1c2:3f1c: Mon Jan 18 23:33 - 23:38  (00:04)
+reboot   system boot  5.4.83+          Thu Jan  1 01:00 - 23:38 (18645+23:38)
+pi       pts/0        fe80::b457:920d: Mon Jan 18 23:30 - 23:32  (00:02)
+pi       pts/2        :pts/0:S.1       Mon Jan 18 23:28 - 23:29  (00:00)
+pi       pts/1        :pts/0:S.0       Mon Jan 18 23:28 - 23:29  (00:00)
+pi       pts/2        :pts/0:S.1       Mon Jan 18 23:26 - 23:28  (00:02)
+pi       pts/1        :pts/0:S.0       Mon Jan 18 23:25 - 23:28  (00:02)
+pi       pts/0        fe80::b457:920d: Fri Jan 15 20:14 - 23:30 (3+03:15)
+reboot   system boot  5.4.83+          Thu Jan  1 01:00 - 23:32 (18645+23:32)
+pi       pts/0        fe80::701d:fd11: Fri Jan 15 20:08 - 20:12  (00:04)
+reboot   system boot  5.4.83+          Thu Jan  1 01:00 - 20:12 (18642+20:12)
+pi       pts/0        fe80::8848:5788: Wed Dec  2 13:20 - 20:06 (44+06:45)
+reboot   system boot  5.4.79+          Thu Jan  1 01:00 - 20:06 (18642+20:06)
+reboot   system boot  5.4.79+          Thu Jan  1 01:00 - 20:06 (18642+20:06)
+reboot   system boot  5.4.79+          Thu Jan  1 01:00 - 20:06 (18642+20:06)
+reboot   system boot  5.4.79+          Thu Jan  1 01:00 - 20:06 (18642+20:06)
+
+wtmp begins Thu Jan  1 01:00:03 1970
+TOP-10 PROCESSES BY RAM/CPU USAGE
+  PID  PPID CMD                         %MEM %CPU
+    1     0 /sbin/init                   1.8  0.1
+  442     1 /lib/systemd/systemd --user  1.6  0.0
+  439   435 sshd: pi [priv]              1.4  0.0
+   91     1 /lib/systemd/systemd-journa  1.4  0.0
+  435     1 /usr/sbin/sshd -D            1.2  0.0
+  253     1 /lib/systemd/systemd-logind  1.2  0.0
+  204     1 /lib/systemd/systemd-timesy  1.2  0.0
+  298     1 /sbin/wpa_supplicant -u -s   1.0  0.0
+  399     1 /usr/lib/bluetooth/bluetoot  1.0  0.0
+OPEN TCP/UDP PORTS
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp6       0      0 fe80::dfcf:9f1:7307::22 fe80::2db6:9519:6:60094 ESTABLISHED
+udp        0   1408 169.254.203.223:46779   192.168.137.1:53        ESTABLISHED
+VMMEMORY USAGE
+procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa st
+ 0  0      0 321320  16544  70772    0    0    11     1  300   48  1  1 99  0  0
+DISK USAGE
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root        14G  1.8G   12G  13% /
+devtmpfs        183M     0  183M   0% /dev
+tmpfs           216M     0  216M   0% /dev/shm
+tmpfs           216M  3.1M  213M   2% /run
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           216M     0  216M   0% /sys/fs/cgroup
+/dev/mmcblk0p1  253M   48M  205M  19% /boot
+tmpfs            44M     0   44M   0% /run/user/1000
